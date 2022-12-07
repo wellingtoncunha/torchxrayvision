@@ -3,5 +3,5 @@ __pycache__
 *.egg-info
 *.pkl
 *.mp4
-*.png
 *.DS_Store
+.vscode/launch.json
